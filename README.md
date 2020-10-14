@@ -1,5 +1,16 @@
 # AlibabaCloud Resourcify CLI (ARC)
 
+[![NPM version][npm-image]][npm-url]
+[![build status][travis-image]][travis-url]
+[![codecov][cov-image]][cov-url]
+
+[npm-image]: https://img.shields.io/npm/v/@alicloud/arc.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/@alicloud/arc
+[travis-image]: https://img.shields.io/travis/night556/alibabacloud-resourcify-cli/master.svg?style=flat-square
+[travis-url]: https://travis-ci.org/night556/alibabacloud-resourcify-cli
+[cov-image]: https://codecov.io/gh/night556/alibabacloud-resourcify-cli/branch/master/graph/badge.svg
+[cov-url]: https://codecov.io/gh/night556/alibabacloud-resourcify-cli
+
 ARC is a brand-new Alibaba Cloud CLI environment oriented to resourceization, and is a collection of multiple command line tools.
 
 ## Installation
