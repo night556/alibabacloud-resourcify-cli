@@ -8,9 +8,8 @@
     "arc-cs": "bin/arc-cs.js"
   },
   "scripts": {
-    "lint": "eslint --fix lib test",
     "test-cov": "nyc -r=html -r=text -r=lcov mocha -t 3000 -R spec test/*.js",
-    "ci": "npm run lint && npm run test-cov && codecov"
+    "ci": "npm run test-cov && codecov"
   },
   "author": "AlibabaCloud SDK Team",
   "license": "Apache-2.0",
